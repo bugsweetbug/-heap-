@@ -1,1 +1,2 @@
 通过malloc在堆区申请空间测试堆区大小
+通过不断往pipe里写直到堵塞，此处pipe size测试结果与ulimit -a查看的大小不同
